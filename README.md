@@ -28,8 +28,8 @@ It combines historical trading data with a Fear–Greed sentiment index to uncov
 
 project/
 │── data/
-│   ├── historical_data.csv
-│   ├── sentiment_data.csv
+│   ├── historical_data.csv (Unzip historical_data.rar file)
+│   ├── fear_greed_index.csv
 │   ├── trades_sentiment.csv   # merged dataset
 │
 │── notebooks/
